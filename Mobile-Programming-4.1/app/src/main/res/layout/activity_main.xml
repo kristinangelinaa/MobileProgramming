@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/coordinatorLayout4"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="#e7ecef">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/appBarLayout4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:theme="@style/Theme.Module41.AppBarOverlay"
+        tools:ignore="MissingConstraints">
+
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:backgroundTint="#e6616f"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.954"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/toolbar"
+        app:layout_constraintVertical_bias="0.961"
+        app:rippleColor="#FFFFFF"
+        app:srcCompat="@drawable/ic_shopping_cart"
+        tools:ignore="MissingConstraints,SpeakableTextPresentCheck" />
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="416dp"
+        android:layout_height="60dp"
+        android:background="?attr/colorPrimary"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:popupTheme="@style/Theme.Module41.PopupOverlay"
+        tools:layout_editor_absoluteY="-3dp"
+        tools:ignore="MissingConstraints" />
+
+    <ImageView
+        android:id="@+id/lovesickgirl"
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:layout_marginStart="25dp"
+        android:layout_marginTop="36dp"
+        android:contentDescription="@string/a_captivating_anthem_that_beautifully_captures_the_emotional_journey_of_a_heartbroken_woman_seeking_love_and_healing."
+        android:onClick="showLovesickgirlOrder"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/title_menu_makanan"
+        app:srcCompat="@drawable/lovesickgirl" />
+
+    <TextView
+        android:id="@+id/title_menu_makanan"
+        android:layout_width="142dp"
+        android:layout_height="23dp"
+        android:layout_marginTop="36dp"
+        android:text="Blackpink's Album"
+        android:textAlignment="center"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/toolbar" />
+
+    <ImageView
+        android:id="@+id/youneverknow"
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:layout_marginStart="25dp"
+        android:layout_marginTop="68dp"
+        android:contentDescription="@string/a_poignant_and_empowering_track_that_reminds_us_to_never_judge_others_based_on_appearances."
+        android:onClick="showYouneverknowOrder"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/lovesickgirl"
+        app:srcCompat="@drawable/youneverknow" />
+
+    <ImageView
+        android:id="@+id/solo"
+        android:layout_width="130dp"
+        android:layout_height="130dp"
+        android:layout_marginStart="23dp"
+        android:layout_marginTop="252dp"
+        android:contentDescription="@string/a_fierce_and_empowering_solo_debut_that_showcases_her_unique_style_captivating_vocal_and_unapologetic_confidence."
+        android:onClick="showSoloOrder"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/lovesickgirl"
+        app:srcCompat="@drawable/solo" />
+
+    <TextView
+        android:id="@+id/deskripsi_lovesickgirl"
+        android:layout_width="194dp"
+        android:layout_height="100dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="30dp"
+        android:text="@string/a_captivating_anthem_that_beautifully_captures_the_emotional_journey_of_a_heartbroken_woman_seeking_love_and_healing."
+        android:textAlignment="center"
+        app:layout_constraintBottom_toBottomOf="@+id/lovesickgirl"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/lovesickgirl"
+        app:layout_constraintTop_toTopOf="@+id/lovesickgirl" />
+
+    <TextView
+        android:id="@+id/deskripsi_youneverknow"
+        android:layout_width="199dp"
+        android:layout_height="100dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="30dp"
+        android:text="@string/a_poignant_and_empowering_track_that_reminds_us_to_never_judge_others_based_on_appearances."
+        android:textAlignment="center"
+        app:layout_constraintBottom_toTopOf="@+id/deskripsi_solo"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.452"
+        app:layout_constraintStart_toEndOf="@+id/youneverknow"
+        app:layout_constraintTop_toTopOf="@+id/youneverknow"
+        app:layout_constraintVertical_bias="0.153" />
+
+    <TextView
+        android:id="@+id/deskripsi_solo"
+        android:layout_width="195dp"
+        android:layout_height="100dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="30dp"
+        android:text="@string/a_fierce_and_empowering_solo_debut_that_showcases_her_unique_style_captivating_vocal_and_unapologetic_confidence."
+        android:textAlignment="center"
+        app:layout_constraintBottom_toBottomOf="@+id/solo"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/solo"
+        app:layout_constraintTop_toTopOf="@+id/solo" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

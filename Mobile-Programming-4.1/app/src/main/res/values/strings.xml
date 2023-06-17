@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BLACKPINK</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="a_captivating_anthem_that_beautifully_captures_the_emotional_journey_of_a_heartbroken_woman_seeking_love_and_healing."><![CDATA[A captivating anthem that beautifully captures the emotional journey of a heartbroken woman seeking love and healing.]]></string>
+    <string name="a_poignant_and_empowering_track_that_reminds_us_to_never_judge_others_based_on_appearances."><![CDATA[A poignant and empowering track that reminds us to never judge others based on appearances, as everyone carries their own hidden struggles and stories.]]></string>
+    <string name="a_fierce_and_empowering_solo_debut_that_showcases_her_unique_style_captivating_vocal_and_unapologetic_confidence."><![CDATA[A fierce and empowering solo debut that showcases her unique style, captivating vocals, and unapologetic confidence.]]></string>
+
+    <string name="lovesickgirl_order_message">Some Information About Lovesick Girl.</string>
+    <string name="youneverknow_order_message">Some Information About You Never Know.</string>
+    <string name="solo_order_message">Some Information About Solo.</string>
+
+</resources>
