@@ -1,20 +1,16 @@
 <resources>
     <string name="app_name">kodingppb</string>
-    <string name="article_title">Ada Berita</string>
-    <string name="article_subtitle">Pertumbuhan ekonomi Indonesia yang kuat pada kuartal pertama tahun 2023</string>
+    <string name="article_title">Hot News</string>
+    <string name="article_subtitle">The Whimsical Journey Through Serendipitous Quirks: A Kaleidoscope of Randomness</string>
     <string name="article_text">
-        <b>Jakarta, 9 Maret 2023</b> - Indonesia menunjukkan pertumbuhan ekonomi yang kuat pada kuartal pertama tahun ini, dengan ekonomi tumbuh 6,2% dibandingkan dengan tahun sebelumnya. Data yang dirilis oleh Badan Pusat Statistik (BPS) pada hari Rabu menunjukkan bahwa pertumbuhan ekonomi Indonesia melampaui ekspektasi pasar, yang memperkirakan pertumbuhan 5,8%.
-        \n\n
-        Menurut BPS, pertumbuhan ekonomi Indonesia didorong oleh sektor manufaktur dan konstruksi, yang masing-masing tumbuh sebesar 7,1% dan 6,8%. Selain itu, sektor perdagangan, hotel, dan restoran juga mengalami pertumbuhan positif sebesar 5,5%.
-        \n\n
-        "Kinerja sektor manufaktur dan konstruksi yang kuat menunjukkan bahwa kebijakan pemerintah untuk mendorong investasi dan pembangunan infrastruktur telah berhasil," kata Kepala BPS, Suhariyanto, dalam konferensi persnya.
-        \n\n
-        Namun, ada beberapa tantangan yang masih dihadapi oleh ekonomi Indonesia. Salah satunya adalah inflasi yang terus meningkat. Inflasi tahunan Indonesia mencapai 3,8% pada Februari 2023, naik dari 3,2% pada Januari 2023. BPS menyatakan bahwa kenaikan harga bahan bakar dan makanan adalah penyebab utama kenaikan inflasi tersebut.
-        \n\n
-        Selain itu, Indonesia juga masih menghadapi masalah ketidakpastian global yang dapat mempengaruhi pertumbuhan ekonomi. "Kami akan terus memantau perkembangan ekonomi global dan mengambil tindakan yang diperlukan untuk menjaga pertumbuhan ekonomi Indonesia tetap stabil," kata Menteri Keuangan Sri Mulyani Indrawati.
-        \n\n
-        Meskipun demikian, para ekonom memperkirakan bahwa pertumbuhan ekonomi Indonesia akan terus kuat pada tahun 2023. Bank Indonesia memperkirakan pertumbuhan ekonomi sebesar 6,5% pada tahun ini, sedangkan Bank Dunia memperkirakan pertumbuhan ekonomi sebesar 6,3%.
-        \n\n
-        Indonesia merupakan salah satu negara berkembang terbesar di dunia dengan populasi lebih dari 270 juta jiwa. Negara ini memiliki keanekaragaman budaya dan sumber daya alam yang melimpah, dan saat ini sedang berusaha untuk meningkatkan daya saing ekonominya melalui reformasi struktural dan pembangunan infrastruktur.
+        <b>Melbourne, 18 June 2023</b> -  Life is a tapestry woven with the threads of serendipity and randomness. In a world filled with patterns and predictability, the allure of the unexpected captivates our imaginations and injects a touch of magic into our existence. Join us on an enchanting journey through the meandering alleys of random musings and unexpected encounters as we celebrate the delightful quirks that shape our lives.
+        Serendipity, that mystical force that seems to conspire in our favor, often graces us with delightful surprises. Its that fortuitous meeting with an old friend on a bustling city street, or stumbling upon a hidden gem of a book in a dusty corner of a library. These moments of serendipity bring a spark of joy and remind us that life is full of delightful mysteries waiting to be unraveled.
+        In the chaos of life, we often find unexpected beauty. Imagine the splatters of paint on a canvas, each drop falling in a seemingly haphazard manner, only to form a masterpiece that speaks to the soul. Chaos offers a canvas for creativity, allowing us to embrace the unknown and venture into unexplored territories. It is in chaos that innovation and breakthroughs are born, reminding us that even in randomness, there is immense potential.
+        One flap of a butterfly s wings can create a ripple effect that reverberates across the globe. The concept of the butterfly effect, popularized by chaos theory, suggests that even the tiniest actions can have far-reaching consequences. It emphasizes the interconnectedness of our world, where seemingly unrelated events can influence one another in profound and unexpected ways. This notion invites us to appreciate the significance of every choice and action we take, as they have the power to shape our lives and those around us.
+        In a society that craves certainty and control, embracing uncertainty can be a radical act. It is within the realm of uncertainty that spontaneity thrives, where we allow ourselves to be vulnerable and open to the myriad possibilities that unfold before us. By relinquishing the need for rigid plans and embracing the fluidity of life, we embark on a journey filled with surprises, growth, and self-discovery.
+        Some of the most memorable experiences in life stem from chance encounters. Striking up a conversation with a stranger on a train, stumbling upon a street performance that leaves us in awe, or discovering a hidden cafe tucked away in a labyrinthine neighborhood can infuse our lives with wonder and excitement. These encounters remind us of the vastness of the world and the diversity of its inhabitants, enriching our perspective and fostering human connection.
+        Synchronicity, a term coined by Swiss psychologist Carl Jung, refers to meaningful coincidences that seem to defy logical explanation. Its that inexplicable alignment of events that leaves us awestruck, leaving us to question the boundaries of fate and chance. Whether its receiving a phone call from a long-lost friend just as we were thinking of them or stumbling upon a solution to a problem through a seemingly unrelated conversation, synchronicity reveals the hidden tapestry connecting our lives.
+        To fully appreciate the wonders of randomness, we must learn the art of letting go. It is in the release of expectations and the surrender to the unpredictable that we find liberation. By embracing the unknown, we unlock our ability to adapt, grow, and thrive in a world that is constantly changing. Letting go allows us to discover the extraordinary in the ordinary, inviting spontaneity
     </string>
+    <string name="done">done</string>
 </resources>
