@@ -12,15 +12,15 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
     }
 
-    fun openYoutube(view: View) {
+    fun openColorPalette(view: View) {
         val intent = Intent(Intent.ACTION_VIEW)
-        intent.data = Uri.parse("https://www.youtube.com")
+        intent.data = Uri.parse("https://coolors.co/palettes/trending")
         startActivity(intent)
     }
 
-    fun openGoogle(view: View) {
+    fun openApple(view: View) {
         val intent = Intent(Intent.ACTION_VIEW)
-        intent.data = Uri.parse("https://www.google.com")
+        intent.data = Uri.parse("https://www.apple.com")
         startActivity(intent)
     }
 }

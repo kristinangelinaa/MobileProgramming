@@ -13,18 +13,18 @@
         android:id="@+id/openUrlButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Buka Youtube"
+        android:text="Open Apple"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="16dp"
-        android:onClick="openYoutube" />
+        android:onClick="openApple" />
 
     <Button
         android:id="@+id/openGoogleButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Buka Google"
+        android:text="Open ColorPalette"
         android:layout_centerHorizontal="true"
         android:layout_below="@id/openUrlButton"
-        android:onClick="openGoogle" />
+        android:onClick="openColorPalette" />
 
 </RelativeLayout>
